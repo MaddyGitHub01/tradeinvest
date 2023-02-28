@@ -697,6 +697,7 @@ letter-spacing: 2px;
     font-family: sans-serif;
     font-style: italic;
     letter-spacing: 1px;
+    word-spacing: 1px;
 }
 
 .content-image{
@@ -1264,12 +1265,3 @@ i.fa{
     height: 35px;
 }
 /* ------testimonial  close-------*/
-
-  
-
-
-
-
-
-
-
