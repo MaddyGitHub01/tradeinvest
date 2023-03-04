@@ -5,7 +5,7 @@
 * {}
 h1,h2,h3,h4,h5,h6 {
   /* color: #000000; */
-  font-family: Georgia, serif;
+  font-family: roboto;
 }
 
 h5{
@@ -354,7 +354,7 @@ float: right;
 }
 
 .box-icon-simple .text{
-    font-family: 'Dosis';
+    font-family: 'Roboto';
     font-size: 16px;
     letter-spacing: 0.5px;
 }
@@ -467,9 +467,9 @@ body {
   line-height: 1.8em;
   padding: 0;
   background: #18191b;
-  font-family: Georgia, serif;
+  font-family: Roboto;
 }
-h2{color:#FAB702; letter-spacing: 2px; font-family: 'Dosis',serif;}
+h2{color:#FAB702; letter-spacing: 2px; font-family: Roboto;}
 
 .tu_bg{
     background-image: url(../img/tushant/bgtrade1n.png) !important;
@@ -583,7 +583,7 @@ letter-spacing: 2px;
 }
 .card-overlay:hover { opacity: 1; transition: .3s ease-in-out; transform: translateY(0); background-color: #111;}
 
-.title-d {color:#fff; font-size: 18px; letter-spacing: 3px; font-family: Georgia, serif;}
+.title-d {color:#fff; font-size: 18px; letter-spacing: 3px; font-family: Roboto;}
 .lead{font-size:14px; color:#fff;}
 
 .small-border {
@@ -596,11 +596,7 @@ letter-spacing: 2px;
 }
 .box-icon-simple{padding-top: 60px !important;}
 .box-icon-simple.right {
-  margin-right: 40px;
   text-align: right;
-}
-.box-icon-simple.left {
-  margin-left: 40px;
 }
 .box-icon-simple.right i {right: 0;}
 .box-icon-simple.left i {left: 0;}
@@ -616,7 +612,7 @@ letter-spacing: 2px;
   margin-top: 0;
   font-size: 18px;
   letter-spacing: 3px;
-  font-family: 'Dosis', serif;
+  font-family: Roboto;
   text-transform: uppercase;
   color: #fab702;
 }
@@ -663,7 +659,7 @@ letter-spacing: 2px;
 .table-group-divider {
     font-size: 17px;
     letter-spacing: 1px;
-    font-family: 'Dosis',serif;
+    font-family: Roboto;
 }
 
 /* Our image information */
@@ -683,7 +679,7 @@ letter-spacing: 2px;
 }
 
 .wrapper .after th, .wrapper .before th{
-    font-family: Dosis, serif;
+    font-family: Roboto;
     letter-spacing: 2.5px;
     font-weight: 600;
     font-size: 25px;
@@ -694,7 +690,7 @@ letter-spacing: 2px;
 
 .copyright{
     font-size: 15px;
-    font-family: sans-serif;
+    font-family: Roboto;
     font-style: italic;
     letter-spacing: 1px;
     word-spacing: 1px;
@@ -780,7 +776,7 @@ letter-spacing: 2px;
 }
 
 .slide-left p, .slide-right p{
-  font-family: 'Dosis';
+  font-family: Roboto;
     font-size: 16px;
     letter-spacing: 0.5px;
 }
@@ -797,7 +793,7 @@ blockquote{
   padding: 0px 20px 15px 45px;
   margin: 0 0 20px;
   position: relative;
-  font-family: Georgia, serif;
+  font-family: Roboto;
   font-size: 2.6rem !important;
   line-height: 60px;
   color: #c3c1c1;
@@ -813,7 +809,7 @@ blockquote{
 
 blockquote::before{
   content: "\201C";
-  font-family: Arial;
+  font-family: Roboto;
   font-size: 150px;
   font-weight: bold;
   color: #c3c1c1;
@@ -1243,7 +1239,7 @@ i.fa{
     -webkit-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
 }
 .testimonial4_slide p {
-    font-family: 'Dosis',serif;
+    font-family: Roboto;
     font-size: 18px;
     letter-spacing: 0.5px;
     margin: 40px 0 20px 0;
@@ -1265,3 +1261,12 @@ i.fa{
     height: 35px;
 }
 /* ------testimonial  close-------*/
+
+  
+
+
+
+
+
+
+
